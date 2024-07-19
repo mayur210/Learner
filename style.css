@@ -1,0 +1,21 @@
+body{
+    background-color: #F6FB7A;
+}
+#heading{
+    text-align: center;
+    font-size: 50px;
+}
+tr{
+    font-size: 30px;
+}
+pre{
+    font-size: 20px;
+}
+
+
+h2{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
